@@ -2,4 +2,4 @@
 
 # Elements
 
-1. Four sidesos
+1. Four sidos
