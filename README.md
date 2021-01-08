@@ -2,4 +2,4 @@
 
 # Elements
 
-1. Sides
+1. Four sides
